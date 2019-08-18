@@ -1,0 +1,11 @@
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\bin\Debug\netcoreapp2.1\Sistema_Cliente.deps.json
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\bin\Debug\netcoreapp2.1\Sistema_Cliente.runtimeconfig.json
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\bin\Debug\netcoreapp2.1\Sistema_Cliente.runtimeconfig.dev.json
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\bin\Debug\netcoreapp2.1\Sistema_Cliente.dll
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\bin\Debug\netcoreapp2.1\Sistema_Cliente.pdb
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\obj\Debug\netcoreapp2.1\Sistema_Cliente.csprojAssemblyReference.cache
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\obj\Debug\netcoreapp2.1\Sistema_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\obj\Debug\netcoreapp2.1\Sistema_Cliente.AssemblyInfoInputs.cache
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\obj\Debug\netcoreapp2.1\Sistema_Cliente.AssemblyInfo.cs
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\obj\Debug\netcoreapp2.1\Sistema_Cliente.dll
+C:\Users\jessi_001\source\repos\Sistema_Cliente\Sistema_Cliente\obj\Debug\netcoreapp2.1\Sistema_Cliente.pdb

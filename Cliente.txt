@@ -1,0 +1,4 @@
+Jessica|234567891|18/10/1999|Fortaleza         |         jessica@gmail.com         |         30219948|
+Ricardo Rodrigues|123456789|30/09/1997|Fortaleza         |         ricardo@gmail.com         |         30219948|
+Emily|123456789|12/12/1222|Fortaleza     |     emil@gmail.com     |     234567891|
+yu|345|23|fui    |    ert    |    3456|
